@@ -1,1 +1,1 @@
-dim(read.table("tidy_data.txt", header = TRUE))  # should be 180 68
+
